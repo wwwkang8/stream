@@ -81,13 +81,25 @@
 		<Unit filename="/Users/jeonghokang/CLionProjects/stream/string/ReadWriteChar.c">
 			<Option target="string"/>
 		</Unit>
+		<Unit filename="/Users/jeonghokang/CLionProjects/stream/string/StringCompCase.c">
+			<Option target="string"/>
+		</Unit>
 		<Unit filename="/Users/jeonghokang/CLionProjects/stream/string/consoleEOF.c">
+			<Option target="string"/>
+		</Unit>
+		<Unit filename="/Users/jeonghokang/CLionProjects/stream/string/inputBufFlush.c">
 			<Option target="string"/>
 		</Unit>
 		<Unit filename="/Users/jeonghokang/CLionProjects/stream/string/main.c">
 			<Option target="string"/>
 		</Unit>
 		<Unit filename="/Users/jeonghokang/CLionProjects/stream/string/readString.c">
+			<Option target="string"/>
+		</Unit>
+		<Unit filename="/Users/jeonghokang/CLionProjects/stream/string/removeBSN.c">
+			<Option target="string"/>
+		</Unit>
+		<Unit filename="/Users/jeonghokang/CLionProjects/stream/string/stringCopyCase.c">
 			<Option target="string"/>
 		</Unit>
 		<Unit filename="/Users/jeonghokang/CLionProjects/stream/string/writeString.c">

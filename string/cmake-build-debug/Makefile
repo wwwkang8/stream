@@ -170,6 +170,33 @@ ReadWriteChar.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/string.dir/build.make CMakeFiles/string.dir/ReadWriteChar.c.s
 .PHONY : ReadWriteChar.c.s
 
+StringCompCase.o: StringCompCase.c.o
+
+.PHONY : StringCompCase.o
+
+# target to build an object file
+StringCompCase.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/string.dir/build.make CMakeFiles/string.dir/StringCompCase.c.o
+.PHONY : StringCompCase.c.o
+
+StringCompCase.i: StringCompCase.c.i
+
+.PHONY : StringCompCase.i
+
+# target to preprocess a source file
+StringCompCase.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/string.dir/build.make CMakeFiles/string.dir/StringCompCase.c.i
+.PHONY : StringCompCase.c.i
+
+StringCompCase.s: StringCompCase.c.s
+
+.PHONY : StringCompCase.s
+
+# target to generate assembly for a file
+StringCompCase.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/string.dir/build.make CMakeFiles/string.dir/StringCompCase.c.s
+.PHONY : StringCompCase.c.s
+
 consoleEOF.o: consoleEOF.c.o
 
 .PHONY : consoleEOF.o
@@ -196,6 +223,33 @@ consoleEOF.s: consoleEOF.c.s
 consoleEOF.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/string.dir/build.make CMakeFiles/string.dir/consoleEOF.c.s
 .PHONY : consoleEOF.c.s
+
+inputBufFlush.o: inputBufFlush.c.o
+
+.PHONY : inputBufFlush.o
+
+# target to build an object file
+inputBufFlush.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/string.dir/build.make CMakeFiles/string.dir/inputBufFlush.c.o
+.PHONY : inputBufFlush.c.o
+
+inputBufFlush.i: inputBufFlush.c.i
+
+.PHONY : inputBufFlush.i
+
+# target to preprocess a source file
+inputBufFlush.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/string.dir/build.make CMakeFiles/string.dir/inputBufFlush.c.i
+.PHONY : inputBufFlush.c.i
+
+inputBufFlush.s: inputBufFlush.c.s
+
+.PHONY : inputBufFlush.s
+
+# target to generate assembly for a file
+inputBufFlush.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/string.dir/build.make CMakeFiles/string.dir/inputBufFlush.c.s
+.PHONY : inputBufFlush.c.s
 
 main.o: main.c.o
 
@@ -251,6 +305,60 @@ readString.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/string.dir/build.make CMakeFiles/string.dir/readString.c.s
 .PHONY : readString.c.s
 
+removeBSN.o: removeBSN.c.o
+
+.PHONY : removeBSN.o
+
+# target to build an object file
+removeBSN.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/string.dir/build.make CMakeFiles/string.dir/removeBSN.c.o
+.PHONY : removeBSN.c.o
+
+removeBSN.i: removeBSN.c.i
+
+.PHONY : removeBSN.i
+
+# target to preprocess a source file
+removeBSN.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/string.dir/build.make CMakeFiles/string.dir/removeBSN.c.i
+.PHONY : removeBSN.c.i
+
+removeBSN.s: removeBSN.c.s
+
+.PHONY : removeBSN.s
+
+# target to generate assembly for a file
+removeBSN.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/string.dir/build.make CMakeFiles/string.dir/removeBSN.c.s
+.PHONY : removeBSN.c.s
+
+stringCopyCase.o: stringCopyCase.c.o
+
+.PHONY : stringCopyCase.o
+
+# target to build an object file
+stringCopyCase.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/string.dir/build.make CMakeFiles/string.dir/stringCopyCase.c.o
+.PHONY : stringCopyCase.c.o
+
+stringCopyCase.i: stringCopyCase.c.i
+
+.PHONY : stringCopyCase.i
+
+# target to preprocess a source file
+stringCopyCase.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/string.dir/build.make CMakeFiles/string.dir/stringCopyCase.c.i
+.PHONY : stringCopyCase.c.i
+
+stringCopyCase.s: stringCopyCase.c.s
+
+.PHONY : stringCopyCase.s
+
+# target to generate assembly for a file
+stringCopyCase.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/string.dir/build.make CMakeFiles/string.dir/stringCopyCase.c.s
+.PHONY : stringCopyCase.c.s
+
 writeString.o: writeString.c.o
 
 .PHONY : writeString.o
@@ -290,15 +398,27 @@ help:
 	@echo "... ReadWriteChar.o"
 	@echo "... ReadWriteChar.i"
 	@echo "... ReadWriteChar.s"
+	@echo "... StringCompCase.o"
+	@echo "... StringCompCase.i"
+	@echo "... StringCompCase.s"
 	@echo "... consoleEOF.o"
 	@echo "... consoleEOF.i"
 	@echo "... consoleEOF.s"
+	@echo "... inputBufFlush.o"
+	@echo "... inputBufFlush.i"
+	@echo "... inputBufFlush.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"
 	@echo "... readString.o"
 	@echo "... readString.i"
 	@echo "... readString.s"
+	@echo "... removeBSN.o"
+	@echo "... removeBSN.i"
+	@echo "... removeBSN.s"
+	@echo "... stringCopyCase.o"
+	@echo "... stringCopyCase.i"
+	@echo "... stringCopyCase.s"
 	@echo "... writeString.o"
 	@echo "... writeString.i"
 	@echo "... writeString.s"

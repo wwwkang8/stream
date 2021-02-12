@@ -5,9 +5,13 @@ set(CMAKE_DEPENDS_LANGUAGES
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
   "/Users/jeonghokang/CLionProjects/stream/string/ReadWriteChar.c" "/Users/jeonghokang/CLionProjects/stream/string/cmake-build-debug/CMakeFiles/string.dir/ReadWriteChar.c.o"
+  "/Users/jeonghokang/CLionProjects/stream/string/StringCompCase.c" "/Users/jeonghokang/CLionProjects/stream/string/cmake-build-debug/CMakeFiles/string.dir/StringCompCase.c.o"
   "/Users/jeonghokang/CLionProjects/stream/string/consoleEOF.c" "/Users/jeonghokang/CLionProjects/stream/string/cmake-build-debug/CMakeFiles/string.dir/consoleEOF.c.o"
+  "/Users/jeonghokang/CLionProjects/stream/string/inputBufFlush.c" "/Users/jeonghokang/CLionProjects/stream/string/cmake-build-debug/CMakeFiles/string.dir/inputBufFlush.c.o"
   "/Users/jeonghokang/CLionProjects/stream/string/main.c" "/Users/jeonghokang/CLionProjects/stream/string/cmake-build-debug/CMakeFiles/string.dir/main.c.o"
   "/Users/jeonghokang/CLionProjects/stream/string/readString.c" "/Users/jeonghokang/CLionProjects/stream/string/cmake-build-debug/CMakeFiles/string.dir/readString.c.o"
+  "/Users/jeonghokang/CLionProjects/stream/string/removeBSN.c" "/Users/jeonghokang/CLionProjects/stream/string/cmake-build-debug/CMakeFiles/string.dir/removeBSN.c.o"
+  "/Users/jeonghokang/CLionProjects/stream/string/stringCopyCase.c" "/Users/jeonghokang/CLionProjects/stream/string/cmake-build-debug/CMakeFiles/string.dir/stringCopyCase.c.o"
   "/Users/jeonghokang/CLionProjects/stream/string/writeString.c" "/Users/jeonghokang/CLionProjects/stream/string/cmake-build-debug/CMakeFiles/string.dir/writeString.c.o"
   )
 set(CMAKE_C_COMPILER_ID "AppleClang")

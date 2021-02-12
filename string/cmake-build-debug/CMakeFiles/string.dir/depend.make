@@ -5,9 +5,15 @@ CMakeFiles/string.dir/ReadWriteChar.c.o: ../ReadWriteChar.c
 
 CMakeFiles/string.dir/consoleEOF.c.o: ../consoleEOF.c
 
+CMakeFiles/string.dir/inputBufFlush.c.o: ../inputBufFlush.c
+
 CMakeFiles/string.dir/main.c.o: ../main.c
 
 CMakeFiles/string.dir/readString.c.o: ../readString.c
+
+CMakeFiles/string.dir/removeBSN.c.o: ../removeBSN.c
+
+CMakeFiles/string.dir/stringCopyCase.c.o: ../stringCopyCase.c
 
 CMakeFiles/string.dir/writeString.c.o: ../writeString.c
 

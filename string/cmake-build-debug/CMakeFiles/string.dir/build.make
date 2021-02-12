@@ -142,13 +142,69 @@ CMakeFiles/string.dir/readString.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/string.dir/readString.c.s"
 	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/jeonghokang/CLionProjects/stream/string/readString.c -o CMakeFiles/string.dir/readString.c.s
 
+CMakeFiles/string.dir/inputBufFlush.c.o: CMakeFiles/string.dir/flags.make
+CMakeFiles/string.dir/inputBufFlush.c.o: ../inputBufFlush.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/jeonghokang/CLionProjects/stream/string/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building C object CMakeFiles/string.dir/inputBufFlush.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/string.dir/inputBufFlush.c.o   -c /Users/jeonghokang/CLionProjects/stream/string/inputBufFlush.c
+
+CMakeFiles/string.dir/inputBufFlush.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/string.dir/inputBufFlush.c.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/jeonghokang/CLionProjects/stream/string/inputBufFlush.c > CMakeFiles/string.dir/inputBufFlush.c.i
+
+CMakeFiles/string.dir/inputBufFlush.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/string.dir/inputBufFlush.c.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/jeonghokang/CLionProjects/stream/string/inputBufFlush.c -o CMakeFiles/string.dir/inputBufFlush.c.s
+
+CMakeFiles/string.dir/removeBSN.c.o: CMakeFiles/string.dir/flags.make
+CMakeFiles/string.dir/removeBSN.c.o: ../removeBSN.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/jeonghokang/CLionProjects/stream/string/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building C object CMakeFiles/string.dir/removeBSN.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/string.dir/removeBSN.c.o   -c /Users/jeonghokang/CLionProjects/stream/string/removeBSN.c
+
+CMakeFiles/string.dir/removeBSN.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/string.dir/removeBSN.c.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/jeonghokang/CLionProjects/stream/string/removeBSN.c > CMakeFiles/string.dir/removeBSN.c.i
+
+CMakeFiles/string.dir/removeBSN.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/string.dir/removeBSN.c.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/jeonghokang/CLionProjects/stream/string/removeBSN.c -o CMakeFiles/string.dir/removeBSN.c.s
+
+CMakeFiles/string.dir/stringCopyCase.c.o: CMakeFiles/string.dir/flags.make
+CMakeFiles/string.dir/stringCopyCase.c.o: ../stringCopyCase.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/jeonghokang/CLionProjects/stream/string/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building C object CMakeFiles/string.dir/stringCopyCase.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/string.dir/stringCopyCase.c.o   -c /Users/jeonghokang/CLionProjects/stream/string/stringCopyCase.c
+
+CMakeFiles/string.dir/stringCopyCase.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/string.dir/stringCopyCase.c.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/jeonghokang/CLionProjects/stream/string/stringCopyCase.c > CMakeFiles/string.dir/stringCopyCase.c.i
+
+CMakeFiles/string.dir/stringCopyCase.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/string.dir/stringCopyCase.c.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/jeonghokang/CLionProjects/stream/string/stringCopyCase.c -o CMakeFiles/string.dir/stringCopyCase.c.s
+
+CMakeFiles/string.dir/StringCompCase.c.o: CMakeFiles/string.dir/flags.make
+CMakeFiles/string.dir/StringCompCase.c.o: ../StringCompCase.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/jeonghokang/CLionProjects/stream/string/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building C object CMakeFiles/string.dir/StringCompCase.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/string.dir/StringCompCase.c.o   -c /Users/jeonghokang/CLionProjects/stream/string/StringCompCase.c
+
+CMakeFiles/string.dir/StringCompCase.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/string.dir/StringCompCase.c.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/jeonghokang/CLionProjects/stream/string/StringCompCase.c > CMakeFiles/string.dir/StringCompCase.c.i
+
+CMakeFiles/string.dir/StringCompCase.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/string.dir/StringCompCase.c.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/jeonghokang/CLionProjects/stream/string/StringCompCase.c -o CMakeFiles/string.dir/StringCompCase.c.s
+
 # Object files for target string
 string_OBJECTS = \
 "CMakeFiles/string.dir/main.c.o" \
 "CMakeFiles/string.dir/ReadWriteChar.c.o" \
 "CMakeFiles/string.dir/consoleEOF.c.o" \
 "CMakeFiles/string.dir/writeString.c.o" \
-"CMakeFiles/string.dir/readString.c.o"
+"CMakeFiles/string.dir/readString.c.o" \
+"CMakeFiles/string.dir/inputBufFlush.c.o" \
+"CMakeFiles/string.dir/removeBSN.c.o" \
+"CMakeFiles/string.dir/stringCopyCase.c.o" \
+"CMakeFiles/string.dir/StringCompCase.c.o"
 
 # External object files for target string
 string_EXTERNAL_OBJECTS =
@@ -158,9 +214,13 @@ string: CMakeFiles/string.dir/ReadWriteChar.c.o
 string: CMakeFiles/string.dir/consoleEOF.c.o
 string: CMakeFiles/string.dir/writeString.c.o
 string: CMakeFiles/string.dir/readString.c.o
+string: CMakeFiles/string.dir/inputBufFlush.c.o
+string: CMakeFiles/string.dir/removeBSN.c.o
+string: CMakeFiles/string.dir/stringCopyCase.c.o
+string: CMakeFiles/string.dir/StringCompCase.c.o
 string: CMakeFiles/string.dir/build.make
 string: CMakeFiles/string.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/jeonghokang/CLionProjects/stream/string/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Linking C executable string"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/jeonghokang/CLionProjects/stream/string/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Linking C executable string"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/string.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

@@ -1,8 +1,12 @@
 file(REMOVE_RECURSE
   "CMakeFiles/string.dir/ReadWriteChar.c.o"
+  "CMakeFiles/string.dir/StringCompCase.c.o"
   "CMakeFiles/string.dir/consoleEOF.c.o"
+  "CMakeFiles/string.dir/inputBufFlush.c.o"
   "CMakeFiles/string.dir/main.c.o"
   "CMakeFiles/string.dir/readString.c.o"
+  "CMakeFiles/string.dir/removeBSN.c.o"
+  "CMakeFiles/string.dir/stringCopyCase.c.o"
   "CMakeFiles/string.dir/writeString.c.o"
   "string"
   "string.pdb"

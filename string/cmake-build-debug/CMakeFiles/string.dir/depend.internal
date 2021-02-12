@@ -5,9 +5,15 @@ CMakeFiles/string.dir/ReadWriteChar.c.o
  /Users/jeonghokang/CLionProjects/stream/string/ReadWriteChar.c
 CMakeFiles/string.dir/consoleEOF.c.o
  /Users/jeonghokang/CLionProjects/stream/string/consoleEOF.c
+CMakeFiles/string.dir/inputBufFlush.c.o
+ /Users/jeonghokang/CLionProjects/stream/string/inputBufFlush.c
 CMakeFiles/string.dir/main.c.o
  /Users/jeonghokang/CLionProjects/stream/string/main.c
 CMakeFiles/string.dir/readString.c.o
  /Users/jeonghokang/CLionProjects/stream/string/readString.c
+CMakeFiles/string.dir/removeBSN.c.o
+ /Users/jeonghokang/CLionProjects/stream/string/removeBSN.c
+CMakeFiles/string.dir/stringCopyCase.c.o
+ /Users/jeonghokang/CLionProjects/stream/string/stringCopyCase.c
 CMakeFiles/string.dir/writeString.c.o
  /Users/jeonghokang/CLionProjects/stream/string/writeString.c

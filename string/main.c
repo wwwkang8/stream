@@ -1,23 +1,28 @@
 #include <stdio.h>
+#include <string.h>
 
-void ClearLineFromReadBuffer(void){
-    while(getchar()!='\n');
-}
 
 int main() {
 
-    char perID[7];
-    char name[10];
+   char str1[20];
+   char str2[20];
+   printf("문자열 입력 1: ");
+   scanf("%s", str1);
+   printf("문자열 입력 2: ");
+   scanf("%s", str2);
 
-    fputs("주민번호 앞 6자리 입력 : ", stdout); //모니터로 해당 문자열을 출력
-    fgets(perID, sizeof(perID), stdin); //perID 변수에 길이 6만큼의 문자열을 키보드로부터 입력 받는다
-    ClearLineFromReadBuffer(); //입력버퍼 지우기
+   if(!strcmp(str1, str2)){
+       puts("두 문자열은 완벽히 동일합니다");
+   }else{
+       puts("두 문자열은 동일하지 않습니다.");
 
-    fputs("이름 입력 : ", stdout); //모니터로 해당 문자열을 출력
-    fgets(name, sizeof(name), stdin); //name 변수에 길이 9만큼의 문자열을 키보드로부터 입력 받는다.
+       if(!strncmp(str1, str2, 3)){
+           puts("그러나 앞 세글자는 동일합니다");
+       }
+   }
 
-    printf("주민번호 %s \n", perID);
-    printf("이름 %s \n", name);
+
+
 
     return 0;
 }
