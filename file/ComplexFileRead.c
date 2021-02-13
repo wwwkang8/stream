@@ -1,6 +1,10 @@
+//
+// Created by Jeong Ho Kang on 2021/02/13.
+//
+
 #include <stdio.h>
 
-int main() {
+int ComplexFileRead() {
 
     char name[10];
     char sex;

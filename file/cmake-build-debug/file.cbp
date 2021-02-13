@@ -78,16 +78,31 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="/Users/jeonghokang/CLionProjects/stream/file/BinaryFileCopy.c">
+			<Option target="file"/>
+		</Unit>
+		<Unit filename="/Users/jeonghokang/CLionProjects/stream/file/ComplexFileRead.c">
+			<Option target="file"/>
+		</Unit>
+		<Unit filename="/Users/jeonghokang/CLionProjects/stream/file/ComplexFileWrite.c">
+			<Option target="file"/>
+		</Unit>
 		<Unit filename="/Users/jeonghokang/CLionProjects/stream/file/FirstFileRead.c">
 			<Option target="file"/>
 		</Unit>
 		<Unit filename="/Users/jeonghokang/CLionProjects/stream/file/FirstFileWrite.c">
 			<Option target="file"/>
 		</Unit>
+		<Unit filename="/Users/jeonghokang/CLionProjects/stream/file/TextCharFIleCopy.c">
+			<Option target="file"/>
+		</Unit>
 		<Unit filename="/Users/jeonghokang/CLionProjects/stream/file/TextDataFileRead.c">
 			<Option target="file"/>
 		</Unit>
 		<Unit filename="/Users/jeonghokang/CLionProjects/stream/file/TextDataFileWrite.c">
+			<Option target="file"/>
+		</Unit>
+		<Unit filename="/Users/jeonghokang/CLionProjects/stream/file/TextStringFileCopy.c">
 			<Option target="file"/>
 		</Unit>
 		<Unit filename="/Users/jeonghokang/CLionProjects/stream/file/main.c">

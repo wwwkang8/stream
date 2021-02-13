@@ -142,13 +142,83 @@ CMakeFiles/file.dir/TextDataFileRead.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/file.dir/TextDataFileRead.c.s"
 	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/jeonghokang/CLionProjects/stream/file/TextDataFileRead.c -o CMakeFiles/file.dir/TextDataFileRead.c.s
 
+CMakeFiles/file.dir/TextCharFIleCopy.c.o: CMakeFiles/file.dir/flags.make
+CMakeFiles/file.dir/TextCharFIleCopy.c.o: ../TextCharFIleCopy.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/jeonghokang/CLionProjects/stream/file/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building C object CMakeFiles/file.dir/TextCharFIleCopy.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/file.dir/TextCharFIleCopy.c.o   -c /Users/jeonghokang/CLionProjects/stream/file/TextCharFIleCopy.c
+
+CMakeFiles/file.dir/TextCharFIleCopy.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/file.dir/TextCharFIleCopy.c.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/jeonghokang/CLionProjects/stream/file/TextCharFIleCopy.c > CMakeFiles/file.dir/TextCharFIleCopy.c.i
+
+CMakeFiles/file.dir/TextCharFIleCopy.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/file.dir/TextCharFIleCopy.c.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/jeonghokang/CLionProjects/stream/file/TextCharFIleCopy.c -o CMakeFiles/file.dir/TextCharFIleCopy.c.s
+
+CMakeFiles/file.dir/TextStringFileCopy.c.o: CMakeFiles/file.dir/flags.make
+CMakeFiles/file.dir/TextStringFileCopy.c.o: ../TextStringFileCopy.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/jeonghokang/CLionProjects/stream/file/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building C object CMakeFiles/file.dir/TextStringFileCopy.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/file.dir/TextStringFileCopy.c.o   -c /Users/jeonghokang/CLionProjects/stream/file/TextStringFileCopy.c
+
+CMakeFiles/file.dir/TextStringFileCopy.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/file.dir/TextStringFileCopy.c.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/jeonghokang/CLionProjects/stream/file/TextStringFileCopy.c > CMakeFiles/file.dir/TextStringFileCopy.c.i
+
+CMakeFiles/file.dir/TextStringFileCopy.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/file.dir/TextStringFileCopy.c.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/jeonghokang/CLionProjects/stream/file/TextStringFileCopy.c -o CMakeFiles/file.dir/TextStringFileCopy.c.s
+
+CMakeFiles/file.dir/BinaryFileCopy.c.o: CMakeFiles/file.dir/flags.make
+CMakeFiles/file.dir/BinaryFileCopy.c.o: ../BinaryFileCopy.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/jeonghokang/CLionProjects/stream/file/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building C object CMakeFiles/file.dir/BinaryFileCopy.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/file.dir/BinaryFileCopy.c.o   -c /Users/jeonghokang/CLionProjects/stream/file/BinaryFileCopy.c
+
+CMakeFiles/file.dir/BinaryFileCopy.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/file.dir/BinaryFileCopy.c.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/jeonghokang/CLionProjects/stream/file/BinaryFileCopy.c > CMakeFiles/file.dir/BinaryFileCopy.c.i
+
+CMakeFiles/file.dir/BinaryFileCopy.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/file.dir/BinaryFileCopy.c.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/jeonghokang/CLionProjects/stream/file/BinaryFileCopy.c -o CMakeFiles/file.dir/BinaryFileCopy.c.s
+
+CMakeFiles/file.dir/ComplexFileWrite.c.o: CMakeFiles/file.dir/flags.make
+CMakeFiles/file.dir/ComplexFileWrite.c.o: ../ComplexFileWrite.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/jeonghokang/CLionProjects/stream/file/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building C object CMakeFiles/file.dir/ComplexFileWrite.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/file.dir/ComplexFileWrite.c.o   -c /Users/jeonghokang/CLionProjects/stream/file/ComplexFileWrite.c
+
+CMakeFiles/file.dir/ComplexFileWrite.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/file.dir/ComplexFileWrite.c.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/jeonghokang/CLionProjects/stream/file/ComplexFileWrite.c > CMakeFiles/file.dir/ComplexFileWrite.c.i
+
+CMakeFiles/file.dir/ComplexFileWrite.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/file.dir/ComplexFileWrite.c.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/jeonghokang/CLionProjects/stream/file/ComplexFileWrite.c -o CMakeFiles/file.dir/ComplexFileWrite.c.s
+
+CMakeFiles/file.dir/ComplexFileRead.c.o: CMakeFiles/file.dir/flags.make
+CMakeFiles/file.dir/ComplexFileRead.c.o: ../ComplexFileRead.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/jeonghokang/CLionProjects/stream/file/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building C object CMakeFiles/file.dir/ComplexFileRead.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/file.dir/ComplexFileRead.c.o   -c /Users/jeonghokang/CLionProjects/stream/file/ComplexFileRead.c
+
+CMakeFiles/file.dir/ComplexFileRead.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/file.dir/ComplexFileRead.c.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/jeonghokang/CLionProjects/stream/file/ComplexFileRead.c > CMakeFiles/file.dir/ComplexFileRead.c.i
+
+CMakeFiles/file.dir/ComplexFileRead.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/file.dir/ComplexFileRead.c.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/jeonghokang/CLionProjects/stream/file/ComplexFileRead.c -o CMakeFiles/file.dir/ComplexFileRead.c.s
+
 # Object files for target file
 file_OBJECTS = \
 "CMakeFiles/file.dir/main.c.o" \
 "CMakeFiles/file.dir/FirstFileWrite.c.o" \
 "CMakeFiles/file.dir/FirstFileRead.c.o" \
 "CMakeFiles/file.dir/TextDataFileWrite.c.o" \
-"CMakeFiles/file.dir/TextDataFileRead.c.o"
+"CMakeFiles/file.dir/TextDataFileRead.c.o" \
+"CMakeFiles/file.dir/TextCharFIleCopy.c.o" \
+"CMakeFiles/file.dir/TextStringFileCopy.c.o" \
+"CMakeFiles/file.dir/BinaryFileCopy.c.o" \
+"CMakeFiles/file.dir/ComplexFileWrite.c.o" \
+"CMakeFiles/file.dir/ComplexFileRead.c.o"
 
 # External object files for target file
 file_EXTERNAL_OBJECTS =
@@ -158,9 +228,14 @@ file: CMakeFiles/file.dir/FirstFileWrite.c.o
 file: CMakeFiles/file.dir/FirstFileRead.c.o
 file: CMakeFiles/file.dir/TextDataFileWrite.c.o
 file: CMakeFiles/file.dir/TextDataFileRead.c.o
+file: CMakeFiles/file.dir/TextCharFIleCopy.c.o
+file: CMakeFiles/file.dir/TextStringFileCopy.c.o
+file: CMakeFiles/file.dir/BinaryFileCopy.c.o
+file: CMakeFiles/file.dir/ComplexFileWrite.c.o
+file: CMakeFiles/file.dir/ComplexFileRead.c.o
 file: CMakeFiles/file.dir/build.make
 file: CMakeFiles/file.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/jeonghokang/CLionProjects/stream/file/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Linking C executable file"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/jeonghokang/CLionProjects/stream/file/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Linking C executable file"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/file.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

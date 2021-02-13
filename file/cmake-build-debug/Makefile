@@ -143,6 +143,87 @@ file/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/file.dir/build.make CMakeFiles/file.dir/build
 .PHONY : file/fast
 
+BinaryFileCopy.o: BinaryFileCopy.c.o
+
+.PHONY : BinaryFileCopy.o
+
+# target to build an object file
+BinaryFileCopy.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/file.dir/build.make CMakeFiles/file.dir/BinaryFileCopy.c.o
+.PHONY : BinaryFileCopy.c.o
+
+BinaryFileCopy.i: BinaryFileCopy.c.i
+
+.PHONY : BinaryFileCopy.i
+
+# target to preprocess a source file
+BinaryFileCopy.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/file.dir/build.make CMakeFiles/file.dir/BinaryFileCopy.c.i
+.PHONY : BinaryFileCopy.c.i
+
+BinaryFileCopy.s: BinaryFileCopy.c.s
+
+.PHONY : BinaryFileCopy.s
+
+# target to generate assembly for a file
+BinaryFileCopy.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/file.dir/build.make CMakeFiles/file.dir/BinaryFileCopy.c.s
+.PHONY : BinaryFileCopy.c.s
+
+ComplexFileRead.o: ComplexFileRead.c.o
+
+.PHONY : ComplexFileRead.o
+
+# target to build an object file
+ComplexFileRead.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/file.dir/build.make CMakeFiles/file.dir/ComplexFileRead.c.o
+.PHONY : ComplexFileRead.c.o
+
+ComplexFileRead.i: ComplexFileRead.c.i
+
+.PHONY : ComplexFileRead.i
+
+# target to preprocess a source file
+ComplexFileRead.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/file.dir/build.make CMakeFiles/file.dir/ComplexFileRead.c.i
+.PHONY : ComplexFileRead.c.i
+
+ComplexFileRead.s: ComplexFileRead.c.s
+
+.PHONY : ComplexFileRead.s
+
+# target to generate assembly for a file
+ComplexFileRead.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/file.dir/build.make CMakeFiles/file.dir/ComplexFileRead.c.s
+.PHONY : ComplexFileRead.c.s
+
+ComplexFileWrite.o: ComplexFileWrite.c.o
+
+.PHONY : ComplexFileWrite.o
+
+# target to build an object file
+ComplexFileWrite.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/file.dir/build.make CMakeFiles/file.dir/ComplexFileWrite.c.o
+.PHONY : ComplexFileWrite.c.o
+
+ComplexFileWrite.i: ComplexFileWrite.c.i
+
+.PHONY : ComplexFileWrite.i
+
+# target to preprocess a source file
+ComplexFileWrite.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/file.dir/build.make CMakeFiles/file.dir/ComplexFileWrite.c.i
+.PHONY : ComplexFileWrite.c.i
+
+ComplexFileWrite.s: ComplexFileWrite.c.s
+
+.PHONY : ComplexFileWrite.s
+
+# target to generate assembly for a file
+ComplexFileWrite.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/file.dir/build.make CMakeFiles/file.dir/ComplexFileWrite.c.s
+.PHONY : ComplexFileWrite.c.s
+
 FirstFileRead.o: FirstFileRead.c.o
 
 .PHONY : FirstFileRead.o
@@ -196,6 +277,33 @@ FirstFileWrite.s: FirstFileWrite.c.s
 FirstFileWrite.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/file.dir/build.make CMakeFiles/file.dir/FirstFileWrite.c.s
 .PHONY : FirstFileWrite.c.s
+
+TextCharFIleCopy.o: TextCharFIleCopy.c.o
+
+.PHONY : TextCharFIleCopy.o
+
+# target to build an object file
+TextCharFIleCopy.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/file.dir/build.make CMakeFiles/file.dir/TextCharFIleCopy.c.o
+.PHONY : TextCharFIleCopy.c.o
+
+TextCharFIleCopy.i: TextCharFIleCopy.c.i
+
+.PHONY : TextCharFIleCopy.i
+
+# target to preprocess a source file
+TextCharFIleCopy.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/file.dir/build.make CMakeFiles/file.dir/TextCharFIleCopy.c.i
+.PHONY : TextCharFIleCopy.c.i
+
+TextCharFIleCopy.s: TextCharFIleCopy.c.s
+
+.PHONY : TextCharFIleCopy.s
+
+# target to generate assembly for a file
+TextCharFIleCopy.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/file.dir/build.make CMakeFiles/file.dir/TextCharFIleCopy.c.s
+.PHONY : TextCharFIleCopy.c.s
 
 TextDataFileRead.o: TextDataFileRead.c.o
 
@@ -251,6 +359,33 @@ TextDataFileWrite.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/file.dir/build.make CMakeFiles/file.dir/TextDataFileWrite.c.s
 .PHONY : TextDataFileWrite.c.s
 
+TextStringFileCopy.o: TextStringFileCopy.c.o
+
+.PHONY : TextStringFileCopy.o
+
+# target to build an object file
+TextStringFileCopy.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/file.dir/build.make CMakeFiles/file.dir/TextStringFileCopy.c.o
+.PHONY : TextStringFileCopy.c.o
+
+TextStringFileCopy.i: TextStringFileCopy.c.i
+
+.PHONY : TextStringFileCopy.i
+
+# target to preprocess a source file
+TextStringFileCopy.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/file.dir/build.make CMakeFiles/file.dir/TextStringFileCopy.c.i
+.PHONY : TextStringFileCopy.c.i
+
+TextStringFileCopy.s: TextStringFileCopy.c.s
+
+.PHONY : TextStringFileCopy.s
+
+# target to generate assembly for a file
+TextStringFileCopy.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/file.dir/build.make CMakeFiles/file.dir/TextStringFileCopy.c.s
+.PHONY : TextStringFileCopy.c.s
+
 main.o: main.c.o
 
 .PHONY : main.o
@@ -287,18 +422,33 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... file"
+	@echo "... BinaryFileCopy.o"
+	@echo "... BinaryFileCopy.i"
+	@echo "... BinaryFileCopy.s"
+	@echo "... ComplexFileRead.o"
+	@echo "... ComplexFileRead.i"
+	@echo "... ComplexFileRead.s"
+	@echo "... ComplexFileWrite.o"
+	@echo "... ComplexFileWrite.i"
+	@echo "... ComplexFileWrite.s"
 	@echo "... FirstFileRead.o"
 	@echo "... FirstFileRead.i"
 	@echo "... FirstFileRead.s"
 	@echo "... FirstFileWrite.o"
 	@echo "... FirstFileWrite.i"
 	@echo "... FirstFileWrite.s"
+	@echo "... TextCharFIleCopy.o"
+	@echo "... TextCharFIleCopy.i"
+	@echo "... TextCharFIleCopy.s"
 	@echo "... TextDataFileRead.o"
 	@echo "... TextDataFileRead.i"
 	@echo "... TextDataFileRead.s"
 	@echo "... TextDataFileWrite.o"
 	@echo "... TextDataFileWrite.i"
 	@echo "... TextDataFileWrite.s"
+	@echo "... TextStringFileCopy.o"
+	@echo "... TextStringFileCopy.i"
+	@echo "... TextStringFileCopy.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"
