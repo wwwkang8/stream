@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/jeonghokang/CLionProjects/stream/struct/InitStructArray.c
+stdio.h
+-
+
+/Users/jeonghokang/CLionProjects/stream/struct/main.c
+stdio.h
+-
+
