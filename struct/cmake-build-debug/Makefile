@@ -170,6 +170,33 @@ InitStructArray.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/struct.dir/build.make CMakeFiles/struct.dir/InitStructArray.c.s
 .PHONY : InitStructArray.c.s
 
+PointRelation.o: PointRelation.c.o
+
+.PHONY : PointRelation.o
+
+# target to build an object file
+PointRelation.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/struct.dir/build.make CMakeFiles/struct.dir/PointRelation.c.o
+.PHONY : PointRelation.c.o
+
+PointRelation.i: PointRelation.c.i
+
+.PHONY : PointRelation.i
+
+# target to preprocess a source file
+PointRelation.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/struct.dir/build.make CMakeFiles/struct.dir/PointRelation.c.i
+.PHONY : PointRelation.c.i
+
+PointRelation.s: PointRelation.c.s
+
+.PHONY : PointRelation.s
+
+# target to generate assembly for a file
+PointRelation.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/struct.dir/build.make CMakeFiles/struct.dir/PointRelation.c.s
+.PHONY : PointRelation.c.s
+
 StructArray.o: StructArray.c.o
 
 .PHONY : StructArray.o
@@ -223,6 +250,60 @@ StructPointer.s: StructPointer.c.s
 StructPointer.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/struct.dir/build.make CMakeFiles/struct.dir/StructPointer.c.s
 .PHONY : StructPointer.c.s
+
+StructPointerMem.o: StructPointerMem.c.o
+
+.PHONY : StructPointerMem.o
+
+# target to build an object file
+StructPointerMem.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/struct.dir/build.make CMakeFiles/struct.dir/StructPointerMem.c.o
+.PHONY : StructPointerMem.c.o
+
+StructPointerMem.i: StructPointerMem.c.i
+
+.PHONY : StructPointerMem.i
+
+# target to preprocess a source file
+StructPointerMem.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/struct.dir/build.make CMakeFiles/struct.dir/StructPointerMem.c.i
+.PHONY : StructPointerMem.c.i
+
+StructPointerMem.s: StructPointerMem.c.s
+
+.PHONY : StructPointerMem.s
+
+# target to generate assembly for a file
+StructPointerMem.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/struct.dir/build.make CMakeFiles/struct.dir/StructPointerMem.c.s
+.PHONY : StructPointerMem.c.s
+
+StructValAddress.o: StructValAddress.c.o
+
+.PHONY : StructValAddress.o
+
+# target to build an object file
+StructValAddress.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/struct.dir/build.make CMakeFiles/struct.dir/StructValAddress.c.o
+.PHONY : StructValAddress.c.o
+
+StructValAddress.i: StructValAddress.c.i
+
+.PHONY : StructValAddress.i
+
+# target to preprocess a source file
+StructValAddress.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/struct.dir/build.make CMakeFiles/struct.dir/StructValAddress.c.i
+.PHONY : StructValAddress.c.i
+
+StructValAddress.s: StructValAddress.c.s
+
+.PHONY : StructValAddress.s
+
+# target to generate assembly for a file
+StructValAddress.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/struct.dir/build.make CMakeFiles/struct.dir/StructValAddress.c.s
+.PHONY : StructValAddress.c.s
 
 TwoPointDistance.o: TwoPointDistance.c.o
 
@@ -290,12 +371,21 @@ help:
 	@echo "... InitStructArray.o"
 	@echo "... InitStructArray.i"
 	@echo "... InitStructArray.s"
+	@echo "... PointRelation.o"
+	@echo "... PointRelation.i"
+	@echo "... PointRelation.s"
 	@echo "... StructArray.o"
 	@echo "... StructArray.i"
 	@echo "... StructArray.s"
 	@echo "... StructPointer.o"
 	@echo "... StructPointer.i"
 	@echo "... StructPointer.s"
+	@echo "... StructPointerMem.o"
+	@echo "... StructPointerMem.i"
+	@echo "... StructPointerMem.s"
+	@echo "... StructValAddress.o"
+	@echo "... StructValAddress.i"
+	@echo "... StructValAddress.s"
 	@echo "... TwoPointDistance.o"
 	@echo "... TwoPointDistance.i"
 	@echo "... TwoPointDistance.s"

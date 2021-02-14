@@ -1,3 +1,7 @@
+//
+// Created by Jeong Ho Kang on 2021/02/14.
+//
+
 #include <stdio.h>
 
 struct point {
@@ -11,7 +15,7 @@ struct person {
     int age;
 };
 
-int main(void) {
+int StructValAddress(void) {
 
     struct point pos = {10, 20};
     struct person man = {"이승기" "123123", 24};
@@ -23,3 +27,5 @@ int main(void) {
 
     return 0;
 }
+
+

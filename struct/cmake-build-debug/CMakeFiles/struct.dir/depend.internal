@@ -3,8 +3,16 @@
 
 CMakeFiles/struct.dir/InitStructArray.c.o
  /Users/jeonghokang/CLionProjects/stream/struct/InitStructArray.c
+CMakeFiles/struct.dir/PointRelation.c.o
+ /Users/jeonghokang/CLionProjects/stream/struct/PointRelation.c
 CMakeFiles/struct.dir/StructArray.c.o
  /Users/jeonghokang/CLionProjects/stream/struct/StructArray.c
+CMakeFiles/struct.dir/StructPointer.c.o
+ /Users/jeonghokang/CLionProjects/stream/struct/StructPointer.c
+CMakeFiles/struct.dir/StructPointerMem.c.o
+ /Users/jeonghokang/CLionProjects/stream/struct/StructPointerMem.c
+CMakeFiles/struct.dir/StructValAddress.c.o
+ /Users/jeonghokang/CLionProjects/stream/struct/StructValAddress.c
 CMakeFiles/struct.dir/TwoPointDistance.c.o
  /Users/jeonghokang/CLionProjects/stream/struct/TwoPointDistance.c
 CMakeFiles/struct.dir/main.c.o

@@ -1,7 +1,10 @@
 file(REMOVE_RECURSE
   "CMakeFiles/struct.dir/InitStructArray.c.o"
+  "CMakeFiles/struct.dir/PointRelation.c.o"
   "CMakeFiles/struct.dir/StructArray.c.o"
   "CMakeFiles/struct.dir/StructPointer.c.o"
+  "CMakeFiles/struct.dir/StructPointerMem.c.o"
+  "CMakeFiles/struct.dir/StructValAddress.c.o"
   "CMakeFiles/struct.dir/TwoPointDistance.c.o"
   "CMakeFiles/struct.dir/main.c.o"
   "struct"

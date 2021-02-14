@@ -81,10 +81,19 @@
 		<Unit filename="/Users/jeonghokang/CLionProjects/stream/struct/InitStructArray.c">
 			<Option target="struct"/>
 		</Unit>
+		<Unit filename="/Users/jeonghokang/CLionProjects/stream/struct/PointRelation.c">
+			<Option target="struct"/>
+		</Unit>
 		<Unit filename="/Users/jeonghokang/CLionProjects/stream/struct/StructArray.c">
 			<Option target="struct"/>
 		</Unit>
 		<Unit filename="/Users/jeonghokang/CLionProjects/stream/struct/StructPointer.c">
+			<Option target="struct"/>
+		</Unit>
+		<Unit filename="/Users/jeonghokang/CLionProjects/stream/struct/StructPointerMem.c">
+			<Option target="struct"/>
+		</Unit>
+		<Unit filename="/Users/jeonghokang/CLionProjects/stream/struct/StructValAddress.c">
 			<Option target="struct"/>
 		</Unit>
 		<Unit filename="/Users/jeonghokang/CLionProjects/stream/struct/TwoPointDistance.c">

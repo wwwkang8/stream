@@ -142,13 +142,55 @@ CMakeFiles/struct.dir/StructPointer.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/struct.dir/StructPointer.c.s"
 	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/jeonghokang/CLionProjects/stream/struct/StructPointer.c -o CMakeFiles/struct.dir/StructPointer.c.s
 
+CMakeFiles/struct.dir/StructPointerMem.c.o: CMakeFiles/struct.dir/flags.make
+CMakeFiles/struct.dir/StructPointerMem.c.o: ../StructPointerMem.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/jeonghokang/CLionProjects/stream/struct/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building C object CMakeFiles/struct.dir/StructPointerMem.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/struct.dir/StructPointerMem.c.o   -c /Users/jeonghokang/CLionProjects/stream/struct/StructPointerMem.c
+
+CMakeFiles/struct.dir/StructPointerMem.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/struct.dir/StructPointerMem.c.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/jeonghokang/CLionProjects/stream/struct/StructPointerMem.c > CMakeFiles/struct.dir/StructPointerMem.c.i
+
+CMakeFiles/struct.dir/StructPointerMem.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/struct.dir/StructPointerMem.c.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/jeonghokang/CLionProjects/stream/struct/StructPointerMem.c -o CMakeFiles/struct.dir/StructPointerMem.c.s
+
+CMakeFiles/struct.dir/PointRelation.c.o: CMakeFiles/struct.dir/flags.make
+CMakeFiles/struct.dir/PointRelation.c.o: ../PointRelation.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/jeonghokang/CLionProjects/stream/struct/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building C object CMakeFiles/struct.dir/PointRelation.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/struct.dir/PointRelation.c.o   -c /Users/jeonghokang/CLionProjects/stream/struct/PointRelation.c
+
+CMakeFiles/struct.dir/PointRelation.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/struct.dir/PointRelation.c.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/jeonghokang/CLionProjects/stream/struct/PointRelation.c > CMakeFiles/struct.dir/PointRelation.c.i
+
+CMakeFiles/struct.dir/PointRelation.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/struct.dir/PointRelation.c.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/jeonghokang/CLionProjects/stream/struct/PointRelation.c -o CMakeFiles/struct.dir/PointRelation.c.s
+
+CMakeFiles/struct.dir/StructValAddress.c.o: CMakeFiles/struct.dir/flags.make
+CMakeFiles/struct.dir/StructValAddress.c.o: ../StructValAddress.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/jeonghokang/CLionProjects/stream/struct/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building C object CMakeFiles/struct.dir/StructValAddress.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/struct.dir/StructValAddress.c.o   -c /Users/jeonghokang/CLionProjects/stream/struct/StructValAddress.c
+
+CMakeFiles/struct.dir/StructValAddress.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/struct.dir/StructValAddress.c.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/jeonghokang/CLionProjects/stream/struct/StructValAddress.c > CMakeFiles/struct.dir/StructValAddress.c.i
+
+CMakeFiles/struct.dir/StructValAddress.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/struct.dir/StructValAddress.c.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/jeonghokang/CLionProjects/stream/struct/StructValAddress.c -o CMakeFiles/struct.dir/StructValAddress.c.s
+
 # Object files for target struct
 struct_OBJECTS = \
 "CMakeFiles/struct.dir/main.c.o" \
 "CMakeFiles/struct.dir/TwoPointDistance.c.o" \
 "CMakeFiles/struct.dir/StructArray.c.o" \
 "CMakeFiles/struct.dir/InitStructArray.c.o" \
-"CMakeFiles/struct.dir/StructPointer.c.o"
+"CMakeFiles/struct.dir/StructPointer.c.o" \
+"CMakeFiles/struct.dir/StructPointerMem.c.o" \
+"CMakeFiles/struct.dir/PointRelation.c.o" \
+"CMakeFiles/struct.dir/StructValAddress.c.o"
 
 # External object files for target struct
 struct_EXTERNAL_OBJECTS =
@@ -158,9 +200,12 @@ struct: CMakeFiles/struct.dir/TwoPointDistance.c.o
 struct: CMakeFiles/struct.dir/StructArray.c.o
 struct: CMakeFiles/struct.dir/InitStructArray.c.o
 struct: CMakeFiles/struct.dir/StructPointer.c.o
+struct: CMakeFiles/struct.dir/StructPointerMem.c.o
+struct: CMakeFiles/struct.dir/PointRelation.c.o
+struct: CMakeFiles/struct.dir/StructValAddress.c.o
 struct: CMakeFiles/struct.dir/build.make
 struct: CMakeFiles/struct.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/jeonghokang/CLionProjects/stream/struct/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Linking C executable struct"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/jeonghokang/CLionProjects/stream/struct/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Linking C executable struct"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/struct.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

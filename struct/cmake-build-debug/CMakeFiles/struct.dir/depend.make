@@ -3,7 +3,15 @@
 
 CMakeFiles/struct.dir/InitStructArray.c.o: ../InitStructArray.c
 
+CMakeFiles/struct.dir/PointRelation.c.o: ../PointRelation.c
+
 CMakeFiles/struct.dir/StructArray.c.o: ../StructArray.c
+
+CMakeFiles/struct.dir/StructPointer.c.o: ../StructPointer.c
+
+CMakeFiles/struct.dir/StructPointerMem.c.o: ../StructPointerMem.c
+
+CMakeFiles/struct.dir/StructValAddress.c.o: ../StructValAddress.c
 
 CMakeFiles/struct.dir/TwoPointDistance.c.o: ../TwoPointDistance.c
 
