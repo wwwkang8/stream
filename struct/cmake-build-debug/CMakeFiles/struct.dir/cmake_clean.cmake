@@ -6,6 +6,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/struct.dir/StructPointerMem.c.o"
   "CMakeFiles/struct.dir/StructValAddress.c.o"
   "CMakeFiles/struct.dir/TwoPointDistance.c.o"
+  "CMakeFiles/struct.dir/TypeNameTypedef.c.o"
   "CMakeFiles/struct.dir/main.c.o"
   "struct"
   "struct.pdb"

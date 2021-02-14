@@ -11,6 +11,7 @@ set(CMAKE_DEPENDS_CHECK_C
   "/Users/jeonghokang/CLionProjects/stream/struct/StructPointerMem.c" "/Users/jeonghokang/CLionProjects/stream/struct/cmake-build-debug/CMakeFiles/struct.dir/StructPointerMem.c.o"
   "/Users/jeonghokang/CLionProjects/stream/struct/StructValAddress.c" "/Users/jeonghokang/CLionProjects/stream/struct/cmake-build-debug/CMakeFiles/struct.dir/StructValAddress.c.o"
   "/Users/jeonghokang/CLionProjects/stream/struct/TwoPointDistance.c" "/Users/jeonghokang/CLionProjects/stream/struct/cmake-build-debug/CMakeFiles/struct.dir/TwoPointDistance.c.o"
+  "/Users/jeonghokang/CLionProjects/stream/struct/TypeNameTypedef.c" "/Users/jeonghokang/CLionProjects/stream/struct/cmake-build-debug/CMakeFiles/struct.dir/TypeNameTypedef.c.o"
   "/Users/jeonghokang/CLionProjects/stream/struct/main.c" "/Users/jeonghokang/CLionProjects/stream/struct/cmake-build-debug/CMakeFiles/struct.dir/main.c.o"
   )
 set(CMAKE_C_COMPILER_ID "AppleClang")

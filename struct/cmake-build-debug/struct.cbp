@@ -99,6 +99,9 @@
 		<Unit filename="/Users/jeonghokang/CLionProjects/stream/struct/TwoPointDistance.c">
 			<Option target="struct"/>
 		</Unit>
+		<Unit filename="/Users/jeonghokang/CLionProjects/stream/struct/TypeNameTypedef.c">
+			<Option target="struct"/>
+		</Unit>
 		<Unit filename="/Users/jeonghokang/CLionProjects/stream/struct/main.c">
 			<Option target="struct"/>
 		</Unit>

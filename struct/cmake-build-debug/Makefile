@@ -332,6 +332,33 @@ TwoPointDistance.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/struct.dir/build.make CMakeFiles/struct.dir/TwoPointDistance.c.s
 .PHONY : TwoPointDistance.c.s
 
+TypeNameTypedef.o: TypeNameTypedef.c.o
+
+.PHONY : TypeNameTypedef.o
+
+# target to build an object file
+TypeNameTypedef.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/struct.dir/build.make CMakeFiles/struct.dir/TypeNameTypedef.c.o
+.PHONY : TypeNameTypedef.c.o
+
+TypeNameTypedef.i: TypeNameTypedef.c.i
+
+.PHONY : TypeNameTypedef.i
+
+# target to preprocess a source file
+TypeNameTypedef.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/struct.dir/build.make CMakeFiles/struct.dir/TypeNameTypedef.c.i
+.PHONY : TypeNameTypedef.c.i
+
+TypeNameTypedef.s: TypeNameTypedef.c.s
+
+.PHONY : TypeNameTypedef.s
+
+# target to generate assembly for a file
+TypeNameTypedef.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/struct.dir/build.make CMakeFiles/struct.dir/TypeNameTypedef.c.s
+.PHONY : TypeNameTypedef.c.s
+
 main.o: main.c.o
 
 .PHONY : main.o
@@ -389,6 +416,9 @@ help:
 	@echo "... TwoPointDistance.o"
 	@echo "... TwoPointDistance.i"
 	@echo "... TwoPointDistance.s"
+	@echo "... TypeNameTypedef.o"
+	@echo "... TypeNameTypedef.i"
+	@echo "... TypeNameTypedef.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"

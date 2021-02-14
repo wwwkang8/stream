@@ -6,6 +6,10 @@
 
 #IncludeRegexTransform: 
 
+/Users/jeonghokang/CLionProjects/stream/struct/TypeNameTypedef.c
+stdio.h
+-
+
 /Users/jeonghokang/CLionProjects/stream/struct/main.c
 stdio.h
 -

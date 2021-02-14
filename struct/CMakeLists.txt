@@ -3,4 +3,4 @@ project(struct C)
 
 set(CMAKE_C_STANDARD 99)
 
-add_executable(struct main.c TwoPointDistance.c StructArray.c InitStructArray.c StructPointer.c StructPointerMem.c PointRelation.c StructValAddress.c)
+add_executable(struct main.c TwoPointDistance.c StructArray.c InitStructArray.c StructPointer.c StructPointerMem.c PointRelation.c StructValAddress.c TypeNameTypedef.c)

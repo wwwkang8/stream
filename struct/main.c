@@ -5,21 +5,20 @@ struct point {
     int ypos;
 };
 
-struct person {
+typedef struct point Point;
+
+typedef struct person {
     char name[20];
     char phoneNum[20];
     int age;
-};
+} Person;
 
 int main(void) {
 
-    struct point pos = {10, 20};
-    struct person man = {"이승기" "123123", 24};
-
-    /** 구조체 변수의 주소값은 구조체 변수의 첫번째 멤버의 주소값과 동일하다 */
-    printf("%p %p \n", &pos, &pos.xpos);
-    printf("%p %p \n", &man, &man.name);
-
+    Point pos = {10, 20};
+    Person man = {"이승기", "1231", 21};
+    printf("%d %d \n", pos.xpos, pos.ypos);
+    printf("%s %s %d \n", man.name, man.phoneNum, man.age);
 
     return 0;
 }

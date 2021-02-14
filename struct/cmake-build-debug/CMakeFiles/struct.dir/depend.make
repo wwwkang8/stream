@@ -15,5 +15,7 @@ CMakeFiles/struct.dir/StructValAddress.c.o: ../StructValAddress.c
 
 CMakeFiles/struct.dir/TwoPointDistance.c.o: ../TwoPointDistance.c
 
+CMakeFiles/struct.dir/TypeNameTypedef.c.o: ../TypeNameTypedef.c
+
 CMakeFiles/struct.dir/main.c.o: ../main.c
 
